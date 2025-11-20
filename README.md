@@ -74,8 +74,8 @@ Penetration Testing • Vulnerability Management • System Administration • N
 
 ---
 
-## 🍺 **Don't Buy me a beer **  
-`bc1xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx`  
+## 💻 **Hackers Need Coffee, Not Beer**  
+`bc1differentxxxxxxxxxxxxxxxxxxxxxxxxxxxx`
 
 ---
 
