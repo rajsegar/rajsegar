@@ -74,20 +74,18 @@ Penetration Testing • Vulnerability Management • System Administration • N
 
 ---
 
-## 🍺 **Don't Buy me a beer (BTC)**  
+## 🍺 **Don't Buy me a beer **  
 `bc1xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx`  
 
 ---
 
 <div align="center">
 
-````diff
-- ▓▓▓▓▓  G H O S T _ R O O T _ R a 1 0  ▓▓▓▓▓
-+ INITIALIZING RED TEAM SHELL...
+"▓▓▓▓▓ G H O S T _ R O O T _ RA10 ▓▓▓▓▓"
 
-! STATUS: ONLINE
 
-+ ghost_root_Ra10 → EXITING SHELL...
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=INITIALIZING+RED+TEAM+SHELL...;STATUS:+ONLINE;session+terminated!" />
 
-! session terminated
----
+</div>
+
+
