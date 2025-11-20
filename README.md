@@ -25,7 +25,7 @@ uid=0(root) gid=0(root) groups=redteam, exploitdev, ghostcrew
 - 🛰 Strong experience with AD, Office 365, VMware, Intune, Network Ops
 - 🕵️ Passion: Redteam, adversarial ML, exploit research
 - 🔧 Blending academic + operational experience to build a future in offensive cyber
-- - 📡 Always scanning. Always listening. Always learning.
+- 📡 Always scanning. Always listening. Always learning.
 
 ---
 
