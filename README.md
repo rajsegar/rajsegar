@@ -58,12 +58,14 @@ Penetration Testing • Vulnerability Management • System Administration • N
 ## 📊 **GitHub Intelligence Report (Live)**
 
 <div align="center">
-  <img src="https://my-github-stats.vercel.app/api?username=rajsegar&show_icons=true&theme=dracula&border_color=ff0033" />
-  
-  <img src="https://my-github-stats.vercel.app/api/top-langs/?username=rajsegar&layout=compact&theme=dracula&border_color=ff0033" />
-</div>
 
----
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=rajsegar&show_icons=true&theme=dracula&border_color=ff0033" height="165" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajsegar&layout=compact&theme=dracula&border_color=ff0033" height="165" />
+
+</div>
 
 ---
 
