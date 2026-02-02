@@ -23,16 +23,10 @@
 
 ## 🧪 TryHackMe Progress
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Rajsegar.png" alt="TryHackMe Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Rajsegar.png" alt="Your Image Badge" />
 </p>
 
-🔗 https://tryhackme.com/p/Rajsegar  
-
-✔️ Web  
-✔️ Linux  
-✔️ Networking  
-✔️ OWASP  
-✔️ Privilege Escalation (in progress)
+🔗 https://tryhackme.com/p/Rajsegar 
 
 ---
 
