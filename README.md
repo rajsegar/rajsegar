@@ -1,93 +1,68 @@
-<div align="center">
-  
-# 👾 ghost_root_Ra10  
+<h1 align="center">
+  👾 Rajsegar Alagarathnam 👾
+</h1>
 
-### `root@rajsegar:~# whoami`
+<h3 align="center">
+  🔴 Cybersecurity | Red Team | Penetration Testing
+</h3>
 
-### redteam@ops:~$ id
-
-uid=0(root) gid=0(root) groups=redteam, exploitdev, ghostcrew
-
-**Cybersecurity Student | Red Team Trainee | AI Security Researcher**
-
-<img src="https://readme-typing-svg.demolab.com?font=Iosevka&pause=900&color=FF002B&center=true&vCenter=true&width=450&lines=Access+Granted...;Initializing+ghost_root_Ra10+profile...;Loading+Red+Team+modules...;Deploying+Payload...;Ready." alt="Typing SVG" />
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:000000&height=220&section=header&text=Hack%20The%20Planet&fontColor=ffffff&fontSize=40" />
+</p>
 
 ---
 
-## 🩸 **About Me**
-
-- 🎓 MSc Cybersecurity — University of Sunderland
-- 🛠 4+ years of IT industry experience
-- 🔐 Red Team & VAPT learner 
-- 🤖 AI Security Research: Secure Federated Learning (privacy, trust, decentralised ML)
-- 🛰 Strong experience with AD, Office 365, VMware, Intune, Network Ops
-- 🕵️ Passion: Redteam, adversarial ML, exploit research
-- 🔧 Blending academic + operational experience to build a future in offensive cyber
-- 📡 Always scanning. Always listening. Always learning.
+## 🧠 Who Am I?
+- 🎓 **MSc Cyber Security** – University of Sunderland (UK)
+- 🔴 Focused on **Red Team / Offensive Security**
+- 🐞 Actively learning **Bug Bounty & Web Exploitation**
+- 🧪 Hands-on with **labs, CTFs & real-world simulations**
+- 🎯 Target: **Junior Pentester / Security Analyst role before Dec 2026**
 
 ---
 
-## 🛡️ TryHackMe Progress
+## 🧪 TryHackMe Progress
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Rajsegar.png" alt="TryHackMe Badge" />
+</p>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Rajsegar.png" alt="Your Image Badge" />
+🔗 https://tryhackme.com/p/Rajsegar  
 
-### **Core Skills**
-Penetration Testing • Vulnerability Management • System Administration • Network Security • Machine Learning  
-
-### **Technologies & Tools**
-
-- Languages: Python • Bash • PowerShell • JavaScript • Go
-- Systems: VMware • Intune • Barracuda • Active Directory • O365
-- Security: Nessus • Nmap • Wireshark
-- Cloud: AWS • Azure
-- Distros: Kali • Debian • Arch • Parrot OS • Ubunthu
+✔️ Web  
+✔️ Linux  
+✔️ Networking  
+✔️ OWASP  
+✔️ Privilege Escalation (in progress)
 
 ---
 
-## 🧪 **Labs, Learning & Hooks**
-- HackerEarth •
-- HackerRank  
-- Tryhackme - https://tryhackme.com/p/Rajsegar
-- Hack in the box
-- VulnHub
+## 🏆 Hall of Fame (Growing)
+✔️ TryHackMe rooms completed  
+✔️ Private lab vulnerabilities  
+🚧 First public bug bounty report — *coming soon*
+
+> This section updates as real bugs are reported 🔥
 
 ---
 
-## 📊 **GitHub Intelligence Report (Live)**
+## 📊 GitHub Stats
+<p align="center">
+  <img width="330px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajsegar&layout=compact&theme=radical&hide_border=true" />
+</p>
 
-<div align="center">
-
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=rajsegar&show_icons=true&theme=dracula&border_color=ff0033" height="165" />
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajsegar&layout=compact&theme=dracula&border_color=ff0033" height="165" />
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajsegar&label=Profile%20Views&color=red&style=flat" />
+</p>
 
 ---
 
-## 🕳️ **Contact **  
-- ☠️ rajsegar567@gmail.com
-- 🔗 linkedin.com/in/rajsegar-alagarathnam
-  
+## 🌐 Links
+- 🐙 GitHub: https://github.com/rajsegar  
+- 🧪 TryHackMe: https://tryhackme.com/p/Rajsegar  
+- 🏆 Achievements: https://github.com/rajsegar?tab=achievements
 
 ---
 
-## 💻 **Hackers Need Coffee, Not Beer**  
-`bc1differentxxxxxxxxxxxxxxxxxxxxxxxxxxxx`
-
----
-
-<div align="center">
-
-"▓▓▓▓▓ G H O S T _ R O O T _ RA10 ▓▓▓▓▓"
-
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=INITIALIZING+RED+TEAM+SHELL...;STATUS:+ONLINE;session+terminated!" />
-
-</div>
-
-
+<p align="center">
+  <i>"The quieter you become, the more you are able to hear."</i> 🕶️
+</p>
