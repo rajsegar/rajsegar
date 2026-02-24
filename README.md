@@ -17,7 +17,7 @@
 - 🔴 Focused on **Red Team / Offensive Security**
 - 🐞 Actively learning **Bug Bounty & Web Exploitation**
 - 🧪 Hands-on with **labs, CTFs & real-world simulations**
-- 🎯 Target: **Junior Pentester / Security Analyst role before Dec 2026**
+
 
 ---
 
