@@ -30,9 +30,7 @@
 
 ---
 
-## 🏆 Hall of Fame (Growing)
-✔️ TryHackMe rooms completed  
-✔️ Private lab vulnerabilities  
+## 🏆 Hall of Fame (Growing)  
 🚧 First public bug bounty report — *coming soon*
 
 > This section updates as real bugs are reported 🔥
