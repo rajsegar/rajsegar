@@ -19,21 +19,7 @@
 
 > Security professional specialising in **offensive security and penetration testing**, with an **MSc in Cyber Security (Distinction)** and **4+ years** in IT operations. I focus on web application testing, Active Directory security assessment, and adversary simulation, backed by hands-on vulnerability assessment and evidence-based reporting.
 
-```python
-class SecurityResearcher:
-    def __init__(self):
-        self.name     = "Rajsegar Alagarathnam"
-        self.location = "Sunderland, UK"
-        self.degree   = "MSc Cyber Security (Distinction)"
-        self.role     = "Offensive Security / Penetration Tester"
-        self.focus    = ["Web App Testing", "Active Directory Security",
-                         "Adversary Simulation", "VAPT Reporting"]
-        self.tooling  = ["Nmap", "Burp Suite", "Metasploit",
-                         "Cobalt Strike", "Nessus", "Kali Linux"]
-        self.learning = "CPENT (Certified Penetration Testing Professional)"
-```
 
-<br/>
 
 <!-- TECH BADGES -->
 ## 🛠️ &nbsp; Technical Skills
