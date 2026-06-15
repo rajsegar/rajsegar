@@ -142,3 +142,53 @@ STATUS       : [ACTIVE] — preparing for CPENT certification
 
 <!-- ACHIEVEMENTS -->
 ## `> cat trophies.log`
+
+```
+[+] TryHackMe ......... TOP 6% GLOBALLY      → tryhackme.com/p/Rajsegar
+[+] Security Writing .. Published write-ups  → medium.com/@RajPhantomVector
+[+] MSc Cyber Security  DISTINCTION           → University of Sunderland
+```
+
+<div align="center">
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Rajsegar.png)](https://tryhackme.com/p/Rajsegar)
+
+</div>
+
+<br/>
+
+<!-- EDUCATION -->
+## `> tree /education`
+
+```
+education/
+├── MSc Cyber Security (Distinction) — University of Sunderland, UK [2023–2024]
+│   └── Pentesting & VA · Network Security · Incident Response · Secure Design
+└── BSc (Hons) Business Information Systems — Cardiff Metropolitan University
+```
+
+<br/>
+
+<!-- CURRENTLY LEARNING — no banner -->
+### `> tail -f /var/log/learning.log`
+
+```
+[NOW] Preparing for CPENT certification
+[FOCUS] Web exploitation · Active Directory attack paths · Adversary simulation
+```
+
+<br/>
+
+<!-- CONTACT -->
+## `> nc -lvnp 443   # let's connect`
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41)](mailto:rajsegar567@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://www.linkedin.com/in/rajsegar-alagarathnam/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=00ff41)](https://tryhackme.com/p/Rajsegar)
+[![Medium](https://img.shields.io/badge/Medium-0d1117?style=for-the-badge&logo=medium&logoColor=00ff41)](https://medium.com/@RajPhantomVector)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff41,100:0d1117&height=120&section=footer" width="100%"/>
