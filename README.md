@@ -35,6 +35,12 @@ class SecurityResearcher:
 
 <br/>
 
+<br/>
+
+> 🌱 &nbsp; **Currently preparing for the CPENT certification**, with continued focus on web exploitation, Active Directory attack paths, and adversary simulation.
+
+<br/>
+
 <!-- TECH BADGES -->
 ## 🛠️ &nbsp; Technical Skills
 
@@ -160,11 +166,7 @@ class SecurityResearcher:
   <br/>*Modules: Penetration Testing & Vulnerability Assessment, Network Security, Cyber Resilience & Incident Response, Secure Design.*
 - **BSc (Hons) Business Information Systems (Upper Second Class)** — Cardiff Metropolitan University
 
-<br/>
 
-> 🌱 &nbsp; **Currently preparing for the CPENT certification**, with continued focus on web exploitation, Active Directory attack paths, and adversary simulation.
-
-<br/>
 
 <!-- CONTACT -->
 ## 📫 &nbsp; Contact
